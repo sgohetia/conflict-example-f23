@@ -6,4 +6,5 @@ Merge conflicts are a common part of working with GitHub. Do not fear the confli
 
 Here is some more content that was added through GitHub.
 
-Here some conflicts.
+Here is a cause of conflict
+
